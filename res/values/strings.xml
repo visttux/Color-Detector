@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Detector Colors</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_launcher">Detector Colors</string>
+    <string name="download_button_text">Check Colours</string>
+    <string name="download_tab">Download</string>
+    <string name="photo_fragment">Camera</string>
+    <string name="camera_string">Camera</string>
+
+</resources>
