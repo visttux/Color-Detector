@@ -2,8 +2,6 @@
 
 This project is a little android application which returns the color of a bitmap from diferent resources (URL, Camera...) aplying K-means algorithm to an RGB space
 
-![Screenshot](https://github.com/Visttux/Color-Detector/raw/master/screenshot.png)
-
 ## Features
  * Multithread image loading
  * Load from Camera and URL
