@@ -1,6 +1,6 @@
-﻿# Color-Detector
+# Color-Detector
 
-This project is a little android application which returns the color of a bitmap from diferent resources (URL, Camera...) aplying K-means algorithm to an RGB space
+This project is a little android application which returns the color percentage (eleven more representatives) of a bitmap from diferent resources (URL, Camera...) aplying K-means algorithm to an RGB space
 
 ## Features
  * Multithread image loading
